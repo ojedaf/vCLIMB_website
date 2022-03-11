@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Results
+    url: '/post'
+    weight: 20
+  - name: Download
     url: '/course'
     weight: 20
     identifier: courses
-  - name: Data science
+  - name: Team
     url: '/course/example/'
-    weight: 10
-    parent: courses
-  - name: Blog
-    url: '/post'
     weight: 30
+    parent: courses
   - name: Contact
     url: '/contact'
-    weight: 60
+    weight: 40
