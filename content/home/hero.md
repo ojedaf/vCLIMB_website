@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: vCLIMB: A Novel Video Class Incremental Learning Benchmark
+title: A Novel Video Class Incremental Learning Benchmark
 hero_media: student.svg
 design:
   background:
