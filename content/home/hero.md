@@ -12,9 +12,7 @@ design:
     text_color_light: false
 cta:
   url: course/
-  label: Explore our courses
-  icon_pack: fas
-  icon: user-graduate
+  label: Explore our benchmark
 cta_alt:
   url:
   label:
