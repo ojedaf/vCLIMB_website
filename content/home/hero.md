@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: A Novel Video Class Incremental Learning Benchmark
-hero_media: student.svg
+hero_media: 
 design:
   background:
     gradient_angle: 0
