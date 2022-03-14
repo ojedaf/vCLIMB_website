@@ -11,8 +11,8 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: course/
-  label: Explore our benchmark
+  url: https://arxiv.org/abs/2201.09381
+  label: our paper
 cta_alt:
   url:
   label:
