@@ -19,5 +19,5 @@ main:
     url: '/post'
     weight: 40
   - name: Our Team
-    url: '/home/people'
+    url: '/team'
     weight: 50
