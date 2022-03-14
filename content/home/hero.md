@@ -12,10 +12,10 @@ design:
     text_color_light: false
 cta:
   url: https://arxiv.org/abs/2201.09381
-  label: our paper
+  label: paper
 cta_alt:
   url:
-  label:
+  label: cite
 cta_note:
   label:
 advanced:
