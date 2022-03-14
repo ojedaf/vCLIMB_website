@@ -7,17 +7,9 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Results
-    url: '/course'
-    weight: 20
-    identifier: courses
-  - name: Our Benchmark
-    url: '/course/example/'
-    weight: 30
-    parent: courses
   - name: Download
     url: '/post'
-    weight: 40
+    weight: 20
   - name: Our Team
     url: 'people'
-    weight: 50
+    weight: 30
