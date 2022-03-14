@@ -8,7 +8,7 @@ main:
     url: '/'
     weight: 10
   - name: Download
-    url: '/post'
+    url: '/download'
     weight: 20
   - name: Our Team
     url: 'people'
