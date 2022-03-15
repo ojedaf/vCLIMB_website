@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Postdoctoral Fellow at KAUST
 
 # Organizations/Affiliations
 organizations:

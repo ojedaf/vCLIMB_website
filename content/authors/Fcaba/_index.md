@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Kumail Alhamoud
+title: Fabian Caba
 
 # Username (this should match the folder name)
 authors:
-- Kumail Alhamoud
+- Fabian Caba
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Msc Student at KAUST
+role: Research Scientist at Adobe
 
 # Organizations/Affiliations
 organizations:
