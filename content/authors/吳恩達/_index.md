@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Kumail Alhamoud
 
 # Username (this should match the folder name)
 authors:
