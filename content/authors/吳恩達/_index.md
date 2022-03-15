@@ -4,18 +4,18 @@ title: 吳恩達
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Kumail Alhamoud
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: R Instructor
+role: Msc Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: King Abdullah University of Science and Technology (KAUST)
+  url: https://www.kaust.edu.sa/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
