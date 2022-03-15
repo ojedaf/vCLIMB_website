@@ -70,5 +70,3 @@ highlight_name: true
 ---
 
 I have always stood out for my responsibility, perseverance, excellent academic results, and good technical and research skills. In this way, I have achieved several academic recognitions, among which Erasmus Mundus scholarship and ANID scholarship awarded by the Chilean government to do a PhD in computer science. Currently, I am PhD student at IALab group PUC, passionate about computer vision. I'm trying to figure out how to give the machines and artificial agents the ability to reason and see the world as human beings do. Inspired by this, I am focusing on learning to recognize novel human actions with few samples and multimodal information like humans do.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
