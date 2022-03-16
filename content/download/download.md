@@ -2,11 +2,19 @@
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
-| Left-aligned | Center-aligned | Right-aligned |
-|    :---:     |     :---:      |     :---:     |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+MultiMarkdown from at least v5 supports these types of tables (docs permalink) in the same way that Michael Fortin for PHP Markdown Extra does, turning:
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
 
 
 <!--more-->
