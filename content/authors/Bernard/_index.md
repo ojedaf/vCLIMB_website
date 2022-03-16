@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Juan León Alcázar
+title: Bernard Ghanem
 
 # Username (this should match the folder name)
 authors:
-- Juan León Alcázar
+- Bernard Ghanem
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow at KAUST
+role: Deputy Director of AI Initiative at KAUST
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/juan-carlos-leon-alcazar/
+  link: https://www.linkedin.com/in/bernardghanem/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -42,4 +42,4 @@ user_groups:
 - Teachers
 ---
 
-I'm a Ph.D. in Computer Science from Los Andes University, and MSc. from the Universidad Nacional de Colombia. I completed my Ph.D. dissertation on applied Computer Vision under the supervision of Prof. Pablo Arbeláez, at the Biomedical Computervision Group . My main research interest is the analysis of contextual information for "in the wild" video understanding.
+Associate Professor in Electrical Engineering and Computer Science, with research expertise in computer vision and machine learning, with emphasis on large scale video understanding, vision for automated navigation, and theoretical foundations. 

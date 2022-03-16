@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Juan León Alcázar
+title: Victor Escorcia
 
 # Username (this should match the folder name)
 authors:
-- Juan León Alcázar
+- Victor Escorcia
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow at KAUST
+role: Artificial Intelligence Researcher at Samsung AI
 
 # Organizations/Affiliations
 organizations:
-- name: King Abdullah University of Science and Technology (KAUST)
-  url: https://www.kaust.edu.sa/en
+- name: Samsung AI
+  url: https://research.samsung.com/artificial-intelligence
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -31,7 +31,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/juan-carlos-leon-alcazar/
+  link: https://www.linkedin.com/in/victor-escorcia/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -42,4 +42,3 @@ user_groups:
 - Teachers
 ---
 
-I'm a Ph.D. in Computer Science from Los Andes University, and MSc. from the Universidad Nacional de Colombia. I completed my Ph.D. dissertation on applied Computer Vision under the supervision of Prof. Pablo Arbeláez, at the Biomedical Computervision Group . My main research interest is the analysis of contextual information for "in the wild" video understanding.
