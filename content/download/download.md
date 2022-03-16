@@ -3,6 +3,16 @@
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
+tbody tr:nth-child(even) {
+  background-color: #eee;
+}
+
+tbody th {
+  background-color: #36c;
+  color: #fff;
+  text-align: left;
+}
+
 <table>
   <caption>2019 Fourth Quarter Report</caption>
   <thead>
