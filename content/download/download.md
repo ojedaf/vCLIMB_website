@@ -4,19 +4,15 @@
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
-MultiMarkdown from at least v5 supports these types of tables (docs permalink) in the same way that Michael Fortin for PHP Markdown Extra does, turning:
+|               |          Grouping             ||         Grouping 2         ||  Not Grouped    |
+| First Header  | Second Header | Third Header   | Forth Header | Fifth Header | Sixth Header    |
+| ------------- | :-----------: | -------------: | :----------: | :----------: | --------------- |
+| Tall Cell     |          *Long Cell*          ||         *Long Long Cell*                    |||
+| ^^            |   **Bold**    | 1. first item  | *Italic*     | 3. third item | + first point  |\
+| ^^            |               | 1. second item |              | 1. forth item | + second point |
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
-
-
+| New section   |     More      |         Data   | ... - -- --- |||
+| And more      | With an escaped \|          || "Try 'quotes' in quotes "         |||
 <!--more-->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
