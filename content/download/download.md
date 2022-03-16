@@ -11,8 +11,8 @@ The standard commonmark does not support tables and does not refer to or recomme
   <td>yes</td>
  </tr>
  <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td>si</td>
+  <td>no</td>
  </tr>
  <tr>
   <td>&nbsp;</td>
