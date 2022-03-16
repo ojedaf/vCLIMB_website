@@ -27,18 +27,20 @@ The standard commonmark does not support tables and does not refer to or recomme
   <td>BWF</td>
  </tr>
  <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td>EWC</td>
+  <td>10</td>
+  <td>None</td>
+  <td>None</td>
+  <td>5.81%</td>
+  <td>16.05%</td>
+  <td>None</td>
+  <td>None</td>
+  <td>4.02%</td>
+  <td>5.32%</td>
+  <td>None</td>
+  <td>None</td>
+  <td>9.51%</td>
+  <td>98.94%</td>
  </tr>
 </table>
 
