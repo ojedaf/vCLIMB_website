@@ -21,21 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,3 +47,5 @@ email: ""
 user_groups:
 - Teachers
 ---
+
+My goal is to build autonomous systems that are intuitive about their surroundings, and that can use their intuition to function independently and help others. I am fascinated by how human beings can systematically see, understand, and act on their understanding. I aspire to combine various architectures to build AI systems that extend this human visual intuition and understand the world in real-time. 
