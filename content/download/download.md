@@ -42,6 +42,22 @@ The standard commonmark does not support tables and does not refer to or recomme
   <td>9.51%</td>
   <td>98.94%</td>
  </tr>
+ <tr>
+  <td>MAS</td>
+  <td>10</td>
+  <td>None</td>
+  <td>None</td>
+  <td>7.81%</td>
+  <td>10.12%</td>
+  <td>None</td>
+  <td>None</td>
+  <td>8.11%</td>
+  <td>0.18%</td>
+  <td>None</td>
+  <td>None</td>
+  <td>10.89%</td>
+  <td>11.11%</td>
+ </tr>
 </table>
 
 <!--more-->
