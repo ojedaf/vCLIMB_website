@@ -13,8 +13,18 @@ The standard commonmark does not support tables and does not refer to or recomme
   <td colspan="4">UCF101</td>
  </tr>
  <tr>
-  <td>si</td>
-  <td>no</td>
+  <td>Mem. Video Instances</td>
+  <td>Mem. Frame Capacity</td>
+  <td>Acc</td>
+  <td>BWF</td>
+  <td>Mem. Video Instances</td>
+  <td>Mem. Frame Capacity</td>
+  <td>Acc</td>
+  <td>BWF</td>
+  <td>Mem. Video Instances</td>
+  <td>Mem. Frame Capacity</td>
+  <td>Acc</td>
+  <td>BWF</td>
  </tr>
  <tr>
   <td>&nbsp;</td>
