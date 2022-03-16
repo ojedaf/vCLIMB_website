@@ -19,6 +19,7 @@ The standard commonmark does not support tables and does not refer to or recomme
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
+  <td>&nbsp;</td>
  </tr>
 </table>
 
