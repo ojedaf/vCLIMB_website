@@ -42,4 +42,4 @@ user_groups:
 - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have always stood out for my responsibility, perseverance, excellent academic results, and good technical and research skills. In this way, I have achieved several academic recognitions, among which Erasmus Mundus scholarship and ANID scholarship awarded by the Chilean government to do a PhD in computer science. In the PhD study, I have developed skills in deep learning frameworks like Pytorch, Pytorch-Lightning, and Comet-ml. Currently, I am an IALab member, focused on outperforming the current models in the task of action classification in video with few examples to train the model.
