@@ -7,9 +7,10 @@ The standard commonmark does not support tables and does not refer to or recomme
 <table>
  <tr>
   <td rowspan="2">Model</td>
-  <td rowspan="2">Num Task</td>
-  <td>hola</td>
-  <td>yes</td>
+  <td rowspan="2">Num. Task</td>
+  <td colspan="4">Kinetics</td>
+  <td colspan="4">ActivityNet-Trim</td>
+  <td colspan="4">UCF101</td>
  </tr>
  <tr>
   <td>si</td>
