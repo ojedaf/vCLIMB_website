@@ -4,21 +4,35 @@
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
 <table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+  <caption>2019 Fourth Quarter Report</caption>
+  <thead>
+    <tr>
+      <th><!-- Intentionally Blank --></th>
+      <th>October</th>
+      <th>November</th>
+      <th>December</th>
+    <tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Projected</th>
+      <td>$820,180</td>
+      <td>$841,640</td>
+      <td>$732,270</td>
+    </tr>
+    <tr>
+      <th>Actual</th>
+      <td>$850,730</td>
+      <td>$892,580</td>
+      <td>$801,240</td>
+    </tr>
+    <tr>
+      <th>Utilization</th>
+      <td>83%</td>
+      <td>90%</td>
+      <td>75%</td>
+    </tr>
+  </tbody>
 </table>
 
 
