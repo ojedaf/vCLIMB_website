@@ -33,51 +33,6 @@ Congratulations to Richard Hendricks for winning first place in the Wowchemy Pri
   </body>
 </html>
 
-<!-- <html>
-  tbody tr:nth-child(even) {
-    background-color: #eee;
-  }
-
-  tbody th {
-    background-color: #36c;
-    color: #fff;
-    text-align: left;
-  }
-
-  <table>
-    <caption>2019 Fourth Quarter Report</caption>
-    <thead>
-      <tr>
-        <th><!-- Intentionally Blank --></th>
-        <th>October</th>
-        <th>November</th>
-        <th>December</th>
-      <tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Projected</th>
-        <td>$820,180</td>
-        <td>$841,640</td>
-        <td>$732,270</td>
-      </tr>
-      <tr>
-        <th>Actual</th>
-        <td>$850,730</td>
-        <td>$892,580</td>
-        <td>$801,240</td>
-      </tr>
-      <tr>
-        <th>Utilization</th>
-        <td>83%</td>
-        <td>90%</td>
-        <td>75%</td>
-      </tr>
-    </tbody>
-  </table>
-</html>
- -->
-
 
 <!--more-->
 
