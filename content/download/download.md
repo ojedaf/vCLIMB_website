@@ -45,7 +45,7 @@ Congratulations to Richard Hendricks for winning first place in the Wowchemy Pri
       </tr>
     </tbody>
   </table>
-<html>
+</html>
 
 
 
