@@ -5,7 +5,7 @@ Congratulations to Richard Hendricks for winning first place in the Wowchemy Pri
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
 <table style="border-collapse: separate; border: 1px solid black; text-align: center; vertical-align: middle;">
- <thead style="background-color: #333;color: white;font-size: 0.875rem;text-transform: uppercase;letter-spacing: 2%;">
+ <thead style="background-color: #333;color: white;">
   <tr>
    <th rowspan="2">Model</th>
    <th rowspan="2">Num. Task</th>
@@ -30,7 +30,7 @@ The standard commonmark does not support tables and does not refer to or recomme
  </thead>
  <tbody>
   <tr>
-   <th style="background-color: #36c;color: #fff;text-align: left;">EWC</th>
+   <th style="background-color: #36c;color: #fff">EWC</th>
    <td>10</td>
    <td>None</td>
    <td>None</td>
@@ -46,7 +46,7 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>98.94%</td>
   </tr>
   <tr>
-   <th style="background-color: #36c;color: #fff;text-align: left;">MAS</th>
+   <th style="background-color: #36c;color: #fff">MAS</th>
    <td>10</td>
    <td>None</td>
    <td>None</td>
