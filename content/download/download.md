@@ -6,12 +6,12 @@ The standard commonmark does not support tables and does not refer to or recomme
 
 <table style="border-collapse: collapse; border: 1px solid black; text-align: center; vertical-align: middle;">
  <thead style="background-color: #333;color: white;">
-  <tr style="border: red 5px solid;">
-   <th style="border: red 5px solid;" rowspan="2">Model</th>
-   <th style="border: red 5px solid;" rowspan="2">Num. Task</th>
-   <th style="border: red 5px solid;" colspan="4">Kinetics</th>
-   <th style="border: red 5px solid;" colspan="4">ActivityNet-Trim</th>
-   <th style="border: red 5px solid;" colspan="4">UCF101</th>
+  <tr>
+   <th rowspan="2">Model</th>
+   <th rowspan="2">Num. Task</th>
+   <th colspan="4">Kinetics</th>
+   <th colspan="4">ActivityNet-Trim</th>
+   <th colspan="4">UCF101</th>
   </tr>
   <tr>
    <th style="border: red 5px solid;">Mem. Video Instances</th>
