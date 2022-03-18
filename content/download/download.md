@@ -7,25 +7,25 @@ The standard commonmark does not support tables and does not refer to or recomme
 <table>
  <thead>
   <tr style="border: red 5px solid;">
-   <td style="border: red 5px solid;" rowspan="2">Model</td>
-   <td style="border: red 5px solid;" rowspan="2">Num. Task</td>
+   <th style="border: red 5px solid;" rowspan="2">Model</th>
+   <th style="border: red 5px solid;" rowspan="2">Num. Task</th>
    <th style="border: red 5px solid;" colspan="4">Kinetics</th>
    <th style="border: red 5px solid;" colspan="4">ActivityNet-Trim</th>
    <th style="border: red 5px solid;" colspan="4">UCF101</th>
   </tr>
   <tr>
-   <td style="border: red 5px solid;">Mem. Video Instances</td>
-   <td style="border: red 5px solid;">Mem. Frame Capacity</td>
-   <td style="border: red 5px solid;">Acc</td>
-   <td style="border: red 5px solid;">BWF</td>
-   <td style="border: red 5px solid;">Mem. Video Instances</td>
-   <td style="border: red 5px solid;">Mem. Frame Capacity</td>
-   <td style="border: red 5px solid;">Acc</td>
-   <td style="border: red 5px solid;">BWF</td>
-   <td style="border: red 5px solid;">Mem. Video Instances</td>
-   <td style="border: red 5px solid;">Mem. Frame Capacity</td>
-   <td style="border: red 5px solid;">Acc</td>
-   <td style="border: red 5px solid;">BWF</td>
+   <th style="border: red 5px solid;">Mem. Video Instances</th>
+   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
+   <th style="border: red 5px solid;">Acc</th>
+   <th style="border: red 5px solid;">BWF</th>
+   <th style="border: red 5px solid;">Mem. Video Instances</th>
+   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
+   <th style="border: red 5px solid;">Acc</th>
+   <th style="border: red 5px solid;">BWF</th>
+   <th style="border: red 5px solid;">Mem. Video Instances</th>
+   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
+   <th style="border: red 5px solid;">Acc</th>
+   <th style="border: red 5px solid;">BWF</th>
   </tr>
  </thead>
  <tbody>
