@@ -10,12 +10,12 @@ The standard commonmark does not support tables and does not refer to or recomme
 | `hugo serve -w`   | View your website.             |
 
 <table style="border: red 5px solid;">
- <tr>
-  <td rowspan="2">Model</td>
-  <td rowspan="2">Num. Task</td>
-  <td colspan="4">Kinetics</td>
-  <td colspan="4">ActivityNet-Trim</td>
-  <td colspan="4">UCF101</td>
+ <tr style="border: red 5px solid;">
+  <td style="border: red 5px solid;" rowspan="2">Model</td>
+  <td style="border: red 5px solid;" rowspan="2">Num. Task</td>
+  <td style="border: red 5px solid;" colspan="4">Kinetics</td>
+  <td style="border: red 5px solid;" colspan="4">ActivityNet-Trim</td>
+  <td style="border: red 5px solid;" colspan="4">UCF101</td>
  </tr>
  <tr>
   <td>Mem. Video Instances</td>
