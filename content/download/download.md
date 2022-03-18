@@ -9,7 +9,7 @@ The standard commonmark does not support tables and does not refer to or recomme
 | `hugo`            | Build your website.            |
 | `hugo serve -w`   | View your website.             |
 
-<table>
+<table style="border: red 5px solid;">
  <tr>
   <td rowspan="2">Model</td>
   <td rowspan="2">Num. Task</td>
