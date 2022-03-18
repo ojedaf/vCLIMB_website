@@ -4,6 +4,11 @@
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
+| Command           | Description                    |
+| ------------------| ------------------------------ |
+| `hugo`            | Build your website.            |
+| `hugo serve -w`   | View your website.             |
+
 <table>
  <tr>
   <td rowspan="2">Model</td>
