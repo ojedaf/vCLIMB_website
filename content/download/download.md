@@ -109,6 +109,86 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>91.42%</td>
    <td>7.43%</td>
   </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL</th>
+   <td>10</td>
+   <td>8000</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>32.04%</td>
+   <td>38.74%</td>
+   <td>4000</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>48.53%</td>
+   <td>19.72%</td>
+   <td>2020</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>80.97%</td>
+   <td>18.11%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">BiC</th>
+   <td>10</td>
+   <td>8000</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>27.90%</td>
+   <td>51.96%</td>
+   <td>4000</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>51.96%</td>
+   <td>24.27%</td>
+   <td>2020</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>78.16%</td>
+   <td>18.49%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">Naive</th>
+   <td>20</td>
+   <td>8000</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>23.47%</td>
+   <td>48.05%</td>
+   <td>4000</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>40.78%</td>
+   <td>23.18%</td>
+   <td>2020</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>87.40%</td>
+   <td>10.96%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL</th>
+   <td>20</td>
+   <td>8000</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>26.73%</td>
+   <td>42.25%</td>
+   <td>4000</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>43.33%</td>
+   <td>21.57%</td>
+   <td>2020</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>76.59%</td>
+   <td>21.83%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">BiC</th>
+   <td>20</td>
+   <td>8000</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>23.06%</td>
+   <td>58.97%</td>
+   <td>4000</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>46.53%</td>
+   <td>15.95%</td>
+   <td>2020</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>70.69%</td>
+   <td>24.90%</td>
+  </tr>
  </tbody>
 </table>
 
