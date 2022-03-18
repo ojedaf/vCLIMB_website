@@ -94,20 +94,20 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>5.31%</td>
   </tr>
   <tr>
-   <th style="background-color: #36c;color: #fff">EWC</th>
-   <td>20</td>
-   <td>None</td>
-   <td>None</td>
-   <td>2.95%</td>
-   <td>32.70%</td>
-   <td>None</td>
-   <td>None</td>
-   <td>1.28%</td>
-   <td>3.77%</td>
-   <td>None</td>
-   <td>None</td>
-   <td>4.71%</td>
-   <td>92.12%</td>
+   <th style="background-color: #36c;color: #fff">Naive</th>
+   <td>10</td>
+   <td>8000</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>30.14%</td>
+   <td>41.30%</td>
+   <td>4000</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>47.20%</td>
+   <td>20.64%</td>
+   <td>2020</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>91.42%</td>
+   <td>7.43%</td>
   </tr>
  </tbody>
 </table>
