@@ -61,6 +61,38 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>10.89%</td>
    <td>11.11%</td>
   </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">EWC</th>
+   <td>20</td>
+   <td>None</td>
+   <td>None</td>
+   <td>2.95%</td>
+   <td>32.70%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>1.28%</td>
+   <td>3.77%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>4.71%</td>
+   <td>92.12%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">MAS</th>
+   <td>20</td>
+   <td>None</td>
+   <td>None</td>
+   <td>4.25%</td>
+   <td>5.54%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>4.61%</td>
+   <td>0.1%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>5.90%</td>
+   <td>5.31%</td>
+  </tr>
  </tbody>
 </table>
 
