@@ -5,59 +5,63 @@ Congratulations to Richard Hendricks for winning first place in the Wowchemy Pri
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
 <table>
- <tr style="border: red 5px solid;">
-  <td style="border: red 5px solid;" rowspan="2">Model</td>
-  <td style="border: red 5px solid;" rowspan="2">Num. Task</td>
-  <td style="border: red 5px solid;" colspan="4">Kinetics</td>
-  <td style="border: red 5px solid;" colspan="4">ActivityNet-Trim</td>
-  <td style="border: red 5px solid;" colspan="4">UCF101</td>
- </tr>
- <tr>
-  <td style="border: red 5px solid;">Mem. Video Instances</td>
-  <td style="border: red 5px solid;">Mem. Frame Capacity</td>
-  <td style="border: red 5px solid;">Acc</td>
-  <td style="border: red 5px solid;">BWF</td>
-  <td style="border: red 5px solid;">Mem. Video Instances</td>
-  <td style="border: red 5px solid;">Mem. Frame Capacity</td>
-  <td style="border: red 5px solid;">Acc</td>
-  <td style="border: red 5px solid;">BWF</td>
-  <td style="border: red 5px solid;">Mem. Video Instances</td>
-  <td style="border: red 5px solid;">Mem. Frame Capacity</td>
-  <td style="border: red 5px solid;">Acc</td>
-  <td style="border: red 5px solid;">BWF</td>
- </tr>
- <tr style="border: red 5px solid;">
-  <td style="border: red 5px solid;">EWC</td>
-  <td style="border: red 5px solid;">10</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">5.81%</td>
-  <td style="border: red 5px solid;">16.05%</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">4.02%</td>
-  <td style="border: red 5px solid;">5.32%</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">9.51%</td>
-  <td style="border: red 5px solid;">98.94%</td>
- </tr>
- <tr>
-  <td style="border: red 5px solid;">MAS</td>
-  <td style="border: red 5px solid;">10</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">7.81%</td>
-  <td style="border: red 5px solid;">10.12%</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">8.11%</td>
-  <td style="border: red 5px solid;">0.18%</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">None</td>
-  <td style="border: red 5px solid;">10.89%</td>
-  <td style="border: red 5px solid;">11.11%</td>
- </tr>
+ <thead>
+  <tr style="border: red 5px solid;">
+   <th style="border: red 5px solid;" rowspan="2">Model</th>
+   <th style="border: red 5px solid;" rowspan="2">Num. Task</th>
+   <th style="border: red 5px solid;" colspan="4">Kinetics</th>
+   <th style="border: red 5px solid;" colspan="4">ActivityNet-Trim</th>
+   <th style="border: red 5px solid;" colspan="4">UCF101</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th style="border: red 5px solid;">Mem. Video Instances</th>
+   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
+   <th style="border: red 5px solid;">Acc</th>
+   <th style="border: red 5px solid;">BWF</th>
+   <th style="border: red 5px solid;">Mem. Video Instances</th>
+   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
+   <th style="border: red 5px solid;">Acc</th>
+   <th style="border: red 5px solid;">BWF</th>
+   <th style="border: red 5px solid;">Mem. Video Instances</th>
+   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
+   <th style="border: red 5px solid;">Acc</th>
+   <th style="border: red 5px solid;">BWF</th>
+  </tr>
+  <tr style="border: red 5px solid;">
+   <th style="border: red 5px solid;">EWC</th>
+   <td style="border: red 5px solid;">10</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">5.81%</td>
+   <td style="border: red 5px solid;">16.05%</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">4.02%</td>
+   <td style="border: red 5px solid;">5.32%</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">9.51%</td>
+   <td style="border: red 5px solid;">98.94%</td>
+  </tr>
+  <tr>
+   <th style="border: red 5px solid;">MAS</th>
+   <td style="border: red 5px solid;">10</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">7.81%</td>
+   <td style="border: red 5px solid;">10.12%</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">8.11%</td>
+   <td style="border: red 5px solid;">0.18%</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">None</td>
+   <td style="border: red 5px solid;">10.89%</td>
+   <td style="border: red 5px solid;">11.11%</td>
+  </tr>
+ </tbody>
 </table>
 
 <!--more-->
