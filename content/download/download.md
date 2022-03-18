@@ -4,7 +4,7 @@
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
-<table style="border-collapse: separate; border: 1px solid black; text-align: center; vertical-align: middle;">
+<table style="border-collapse: separate; text-align: center; vertical-align: middle;">
  <thead style="background-color: #333;color: white;">
   <tr>
    <th rowspan="2">Model</th>
@@ -77,7 +77,7 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>4.71%</td>
    <td>92.12%</td>
   </tr>
-  <tr>
+  <tr style="border-bottom: 1pt solid black;">
    <th style="background-color: #36c;color: #fff">MAS</th>
    <td>20</td>
    <td>None</td>
@@ -92,6 +92,22 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>None</td>
    <td>5.90%</td>
    <td>5.31%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">EWC</th>
+   <td>20</td>
+   <td>None</td>
+   <td>None</td>
+   <td>2.95%</td>
+   <td>32.70%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>1.28%</td>
+   <td>3.77%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>4.71%</td>
+   <td>92.12%</td>
   </tr>
  </tbody>
 </table>
