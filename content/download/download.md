@@ -4,7 +4,7 @@
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
-<table style="border-collapse: collapse; border: 1px solid black; text-align: center; vertical-align: middle;">
+<table style="border-collapse: separate; border: 1px solid black; text-align: center; vertical-align: middle;">
  <thead style="background-color: #333;color: white;">
   <tr>
    <th rowspan="2">Model</th>
@@ -29,8 +29,8 @@ The standard commonmark does not support tables and does not refer to or recomme
   </tr>
  </thead>
  <tbody>
-  <tr style="border: red 5px solid;">
-   <th style="border: red 5px solid;">EWC</th>
+  <tr>
+   <th style="background-color: #36c;color: #fff;text-align: left;">EWC</th>
    <td style="border: red 5px solid;">10</td>
    <td style="border: red 5px solid;">None</td>
    <td style="border: red 5px solid;">None</td>
@@ -46,7 +46,7 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td style="border: red 5px solid;">98.94%</td>
   </tr>
   <tr>
-   <th style="border: red 5px solid;">MAS</th>
+   <th style="background-color: #36c;color: #fff;text-align: left;">MAS</th>
    <td style="border: red 5px solid;">10</td>
    <td style="border: red 5px solid;">None</td>
    <td style="border: red 5px solid;">None</td>
