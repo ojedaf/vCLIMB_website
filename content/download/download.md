@@ -5,7 +5,7 @@ Congratulations to Richard Hendricks for winning first place in the Wowchemy Pri
 The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
 
 <table style="border-collapse: collapse; border: 1px solid black; text-align: center; vertical-align: middle;">
- <thead>
+ <thead style="background-color: #333;color: white;">
   <tr style="border: red 5px solid;">
    <th style="border: red 5px solid;" rowspan="2">Model</th>
    <th style="border: red 5px solid;" rowspan="2">Num. Task</th>
