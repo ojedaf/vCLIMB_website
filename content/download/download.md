@@ -13,8 +13,6 @@ The standard commonmark does not support tables and does not refer to or recomme
    <th style="border: red 5px solid;" colspan="4">ActivityNet-Trim</th>
    <th style="border: red 5px solid;" colspan="4">UCF101</th>
   </tr>
- </thead>
- <tbody>
   <tr>
    <td style="border: red 5px solid;">Mem. Video Instances</td>
    <td style="border: red 5px solid;">Mem. Frame Capacity</td>
@@ -29,6 +27,8 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td style="border: red 5px solid;">Acc</td>
    <td style="border: red 5px solid;">BWF</td>
   </tr>
+ </thead>
+ <tbody>
   <tr style="border: red 5px solid;">
    <th style="border: red 5px solid;">EWC</th>
    <td style="border: red 5px solid;">10</td>
