@@ -15,15 +15,15 @@ The standard commonmark does not support tables and does not refer to or recomme
   </tr>
   <tr>
    <th>Mem. Video Instances</th>
-   <th style="width: 200px">Mem. Frame Capacity</th>
+   <th style="width: 20000px">Mem. Frame Capacity</th>
    <th>Acc</th>
    <th>BWF</th>
    <th>Mem. Video Instances</th>
-   <th style="width: 200px">Mem. Frame Capacity</th>
+   <th style="width: 20000px">Mem. Frame Capacity</th>
    <th>Acc</th>
    <th>BWF</th>
    <th>Mem. Video Instances</th>
-   <th style="width: 200px">Mem. Frame Capacity</th>
+   <th style="width: 20000px">Mem. Frame Capacity</th>
    <th>Acc</th>
    <th>BWF</th>
   </tr>
