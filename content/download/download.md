@@ -16,18 +16,18 @@ The standard commonmark does not support tables and does not refer to or recomme
  </thead>
  <tbody>
   <tr>
-   <th style="border: red 5px solid;">Mem. Video Instances</th>
-   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
-   <th style="border: red 5px solid;">Acc</th>
-   <th style="border: red 5px solid;">BWF</th>
-   <th style="border: red 5px solid;">Mem. Video Instances</th>
-   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
-   <th style="border: red 5px solid;">Acc</th>
-   <th style="border: red 5px solid;">BWF</th>
-   <th style="border: red 5px solid;">Mem. Video Instances</th>
-   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
-   <th style="border: red 5px solid;">Acc</th>
-   <th style="border: red 5px solid;">BWF</th>
+   <td style="border: red 5px solid;">Mem. Video Instances</td>
+   <td style="border: red 5px solid;">Mem. Frame Capacity</td>
+   <td style="border: red 5px solid;">Acc</td>
+   <td style="border: red 5px solid;">BWF</td>
+   <td style="border: red 5px solid;">Mem. Video Instances</td>
+   <td style="border: red 5px solid;">Mem. Frame Capacity</td>
+   <td style="border: red 5px solid;">Acc</td>
+   <td style="border: red 5px solid;">BWF</td>
+   <td style="border: red 5px solid;">Mem. Video Instances</td>
+   <td style="border: red 5px solid;">Mem. Frame Capacity</td>
+   <td style="border: red 5px solid;">Acc</td>
+   <td style="border: red 5px solid;">BWF</td>
   </tr>
   <tr style="border: red 5px solid;">
    <th style="border: red 5px solid;">EWC</th>
