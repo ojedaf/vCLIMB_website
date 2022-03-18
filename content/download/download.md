@@ -7,8 +7,8 @@ The standard commonmark does not support tables and does not refer to or recomme
 <table>
  <thead>
   <tr style="border: red 5px solid;">
-   <th style="border: red 5px solid;" rowspan="2">Model</th>
-   <th style="border: red 5px solid;" rowspan="2">Num. Task</th>
+   <td style="border: red 5px solid;" rowspan="2">Model</td>
+   <td style="border: red 5px solid;" rowspan="2">Num. Task</td>
    <th style="border: red 5px solid;" colspan="4">Kinetics</th>
    <th style="border: red 5px solid;" colspan="4">ActivityNet-Trim</th>
    <th style="border: red 5px solid;" colspan="4">UCF101</th>
