@@ -14,52 +14,52 @@ The standard commonmark does not support tables and does not refer to or recomme
    <th colspan="4">UCF101</th>
   </tr>
   <tr>
-   <th style="border: red 5px solid;">Mem. Video Instances</th>
-   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
-   <th style="border: red 5px solid;">Acc</th>
-   <th style="border: red 5px solid;">BWF</th>
-   <th style="border: red 5px solid;">Mem. Video Instances</th>
-   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
-   <th style="border: red 5px solid;">Acc</th>
-   <th style="border: red 5px solid;">BWF</th>
-   <th style="border: red 5px solid;">Mem. Video Instances</th>
-   <th style="border: red 5px solid;">Mem. Frame Capacity</th>
-   <th style="border: red 5px solid;">Acc</th>
-   <th style="border: red 5px solid;">BWF</th>
+   <th>Mem. Video Instances</th>
+   <th>Mem. Frame Capacity</th>
+   <th>Acc</th>
+   <th>BWF</th>
+   <th>Mem. Video Instances</th>
+   <th>Mem. Frame Capacity</th>
+   <th>Acc</th>
+   <th>BWF</th>
+   <th>Mem. Video Instances</th>
+   <th>Mem. Frame Capacity</th>
+   <th>Acc</th>
+   <th>BWF</th>
   </tr>
  </thead>
  <tbody>
   <tr>
    <th style="background-color: #36c;color: #fff;text-align: left;">EWC</th>
-   <td style="border: red 5px solid;">10</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">5.81%</td>
-   <td style="border: red 5px solid;">16.05%</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">4.02%</td>
-   <td style="border: red 5px solid;">5.32%</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">9.51%</td>
-   <td style="border: red 5px solid;">98.94%</td>
+   <td>10</td>
+   <td>None</td>
+   <td>None</td>
+   <td>5.81%</td>
+   <td>16.05%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>4.02%</td>
+   <td>5.32%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>9.51%</td>
+   <td>98.94%</td>
   </tr>
   <tr>
    <th style="background-color: #36c;color: #fff;text-align: left;">MAS</th>
-   <td style="border: red 5px solid;">10</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">7.81%</td>
-   <td style="border: red 5px solid;">10.12%</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">8.11%</td>
-   <td style="border: red 5px solid;">0.18%</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">None</td>
-   <td style="border: red 5px solid;">10.89%</td>
-   <td style="border: red 5px solid;">11.11%</td>
+   <td>10</td>
+   <td>None</td>
+   <td>None</td>
+   <td>7.81%</td>
+   <td>10.12%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>8.11%</td>
+   <td>0.18%</td>
+   <td>None</td>
+   <td>None</td>
+   <td>10.89%</td>
+   <td>11.11%</td>
   </tr>
  </tbody>
 </table>
