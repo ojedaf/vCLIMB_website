@@ -230,6 +230,32 @@ The standard commonmark does not support tables and does not refer to or recomme
   </tr>
   <tr>
    <th style="background-color: #36c;color: #fff">iCaRL</th>
+   <td>8</td>
+   <td>6.4 × 10<sup>4</sup></td>
+   <td>32.04%</td>
+   <td>38.48%</td>
+   <td>3.2 × 10<sup>4</sup></td>
+   <td>21.54%</td>
+   <td>33.41%</td>
+   <td>16.16 × 10<sup>3</sup></td>
+   <td>81.12%</td>
+   <td>18.25%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL</th>
+   <td>16</td>
+   <td>12.8 × 10<sup>4</sup></td>
+   <td>31.36%</td>
+   <td>38.74%</td>
+   <td>6.4 × 10<sup>4</sup></td>
+   <td>25.27%</td>
+   <td>29.71%</td>
+   <td>32.32 × 10<sup>3</sup></td>
+   <td>81.06%</td>
+   <td>18.23%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL</th>
    <td>ALL</td>
    <td>2 × 10<sup>6</sup></td>
    <td>32.04%</td>
@@ -240,6 +266,45 @@ The standard commonmark does not support tables and does not refer to or recomme
    <td>3.69 × 10<sup>5</sup></td>
    <td>80.97%</td>
    <td>18.11%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+   <td>4</td>
+   <td>3.2 × 10<sup>4</sup></td>
+   <td>35.32%</td>
+   <td>34.07%</td>
+   <td>1.6 × 10<sup>4</sup></td>
+   <td>42.99%</td>
+   <td>23.82%</td>
+   <td>8.08 × 10<sup>3</sup></td>
+   <td>73.85%</td>
+   <td>26.35%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+   <td>8</td>
+   <td>6.4 × 10<sup>4</sup></td>
+   <td>36.24%</td>
+   <td>33.83%</td>
+   <td>3.2 × 10<sup>4</sup></td>
+   <td>45.73%</td>
+   <td>18.90%</td>
+   <td>16.16 × 10<sup>3</sup></td>
+   <td>74.25%</td>
+   <td>25.27%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+   <td>16</td>
+   <td>12.8 × 10<sup>4</sup></td>
+   <td>36.54%</td>
+   <td>33.53%</td>
+   <td>6.4 × 10<sup>4</sup></td>
+   <td>44.04%</td>
+   <td>22.82%</td>
+   <td>32.32 × 10<sup>3</sup></td>
+   <td>75.84%</td>
+   <td>23.23%</td>
   </tr>
  </tbody>
 </table>
