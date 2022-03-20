@@ -192,6 +192,58 @@ The standard commonmark does not support tables and does not refer to or recomme
  </tbody>
 </table>
 
+
+<table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
+ <thead style="background-color: #333;color: white;">
+  <tr>
+   <th rowspan="2">Model</th>
+   <th rowspan="2">Frames per video</th>
+   <th colspan="4">Kinetics</th>
+   <th colspan="4">ActivityNet-Trim</th>
+   <th colspan="4">UCF101</th>
+  </tr>
+  <tr>
+   <th>Mem. Frame Capacity</th>
+   <th>Acc</th>
+   <th>BWF</th>
+   <th>Mem. Frame Capacity</th>
+   <th>Acc</th>
+   <th>BWF</th>
+   <th>Mem. Frame Capacity</th>
+   <th>Acc</th>
+   <th>BWF</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL</th>
+   <td>4</td>
+   <td>3.2 × 10<sup>4</sup></td>
+   <td>30.73%</td>
+   <td>40.36%</td>
+   <td>1.6 × 10<sup>4</sup></td>
+   <td>21.63%</td>
+   <td>36.98%</td>
+   <td>8.08 × 10<sup>3</sup></td>
+   <td>80.32%</td>
+   <td>17.13%</td>
+  </tr>
+  <tr>
+   <th style="background-color: #36c;color: #fff">iCaRL</th>
+   <td>ALL</td>
+   <td>2 × 10<sup>6</sup></td>
+   <td>32.04%</td>
+   <td>38.74%</td>
+   <td>15.5 × 10<sup>6</sup></td>
+   <td>48.53%</td>
+   <td>19.72%</td>
+   <td>3.69 × 10<sup>5</sup></td>
+   <td>80.97%</td>
+   <td>18.11%</td>
+  </tr>
+ </tbody>
+</table>
+
 <!--more-->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
