@@ -1,9 +1,6 @@
 ---
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
-The standard commonmark does not support tables and does not refer to or recommend any specific table extensions (latest revision permalink as of 2018-03). Your question doesn't specifically ask about Github-flavored Markdown (GFM), but GFM is based on commonmark with a table extension which doesn't support this.
-
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
   <tr>
@@ -192,6 +189,7 @@ The standard commonmark does not support tables and does not refer to or recomme
  </tbody>
 </table>
 
+Temporal consistency regularization (labeled TC in the table) reduces forgetting on the 10-task Kinetics split regardless of how many frames per video are stored. In particular, our best baseline (iCaRL) tested on a memory of 16, 8, or 4 frames per video is significantly improved when our temporal consistency term is added to iCaRL's loss objective. Indeed, adding the TC Loss, we achieve even better results with 4, 8, and 16 than with without TC and full-resolution videos. Likewise, we obtain even more sizable improvements on Trimmed ActivityNet with temporal consistency. Specifically, adding the regularization term with a model that has access to a memory consisting of 8 frames per video results in a massive 24% improvement, which significantly closes the 27% accuracy gap between storing 8 frames without TC and full-resolution videos. Our results show that our method is most relevant for datasets that require more sophisticated temporal reasoning like ActivityNet.
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
@@ -309,7 +307,7 @@ The standard commonmark does not support tables and does not refer to or recomme
  </tbody>
 </table>
 
-
+We perform a set of experiments to evaluate the realistic class incremental learning scenario with untrimmed videos and make a few interesting observations. First, ActivityNet-Untrim is more challenging than ActivityNet-Trim. iCaRL baseline achieves a better performance on ActivityNet-Trim regardless of the number of frames per video stored in memory. Second, our temporal consistency regularization improves iCaRL by large margins in both ActivityNet setups.
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
@@ -384,10 +382,3 @@ The standard commonmark does not support tables and does not refer to or recomme
   </tr>
  </tbody>
 </table>
-<!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
