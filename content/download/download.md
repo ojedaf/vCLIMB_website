@@ -198,9 +198,9 @@ The standard commonmark does not support tables and does not refer to or recomme
   <tr>
    <th rowspan="2">Model</th>
    <th rowspan="2">Frames per video</th>
-   <th colspan="4">Kinetics</th>
-   <th colspan="4">ActivityNet-Trim</th>
-   <th colspan="4">UCF101</th>
+   <th colspan="3">Kinetics</th>
+   <th colspan="3">ActivityNet-Trim</th>
+   <th colspan="3">UCF101</th>
   </tr>
   <tr>
    <th>Mem. Frame Capacity</th>
