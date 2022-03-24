@@ -11,25 +11,26 @@ main:
     url: '/download'
     weight: 20
   - name: Datasets and Tasks
-    url: '/course/example/'
+    url: '/download/datasets_tasks/'
     weight: 30
     parent: Our benchmark
   - name: Metrics
-    url: '/course/example/'
+    url: '/download/metrics/'
     weight: 40
     parent: Our benchmark
   - name: Temporal-consistency Regularization
-    url: '/course/example/'
+    url: '/download/tcr/'
     weight: 50
     parent: Our benchmark
   - name: Baselines
-    url: '/course/example/'
+    url: '/download/baseline/'
     weight: 60
     parent: Our benchmark
   - name: Down-sampled Videos Challenge
-    url: '/course/example/'
+    url: '/download/dsvc/'
     weight: 70
     parent: Our benchmark
   - name: Our Team
     url: 'people'
     weight: 80
+
