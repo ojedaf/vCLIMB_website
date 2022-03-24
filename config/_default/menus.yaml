@@ -30,7 +30,11 @@ main:
     url: '/download/dsvc/'
     weight: 70
     parent: Our benchmark
+  - name: Untrimmed Videos Challenge
+    url: '/download/uvc/'
+    weight: 80
+    parent: Our benchmark
   - name: Our Team
     url: 'people'
-    weight: 80
+    weight: 90
 
