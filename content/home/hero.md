@@ -23,7 +23,10 @@ advanced:
 ---
 <br>
 
-<p style="font-size:18px;">We introduce vCLIMB, a novel video continual learning benchmark. vCLIMB is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning. We focus on class incremental continual learning with models trained on a sequence of disjoint tasks, and distribute the number of classes uniformly across the tasks. We perform in-depth evaluations of existing CL methods in vCLIMB, and observe two unique challenges in video data. The selection of instances to store in episodic memory is performed at the frame level. Second, untrimmed training data influences the effectiveness of frame sampling strategies. We address these two challenges by proposing a temporal consistency regularization that can be applied on top of memory-based continual learning methods.</p>
+<p style="font-size:18px;">Due to legal or technical constraints, and the fact that labeling data is expensive and time-consuming, real-world deep-learning pipelines would rarely involve a single fine-tuning stage. Instead, these pipelines could require the sequential fine-tuning of large models in a set of independent tasks that are learned sequentially. Under these conditions, deep neural networks suffer from what is known as catastrophic forgetting, where the fine-tuning on novel tasks significantly reduces the performance of the model in a previously learned task, and drift, where unseen training data does not fit the previously estimated class
+distribution. Continual learning directly models such a scenario, by adapting a neural network model into a sequential series of tasks. We focus on a special case of CL: class incremental learning (CIL), where the labels and data are mutually exclusive between tasks, training data is available only for the current task, and there are no tasks ids.
+
+</p>
 
 <br>
 
