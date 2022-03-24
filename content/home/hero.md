@@ -12,10 +12,10 @@ design:
     text_color_light: false
 cta:
   url: https://arxiv.org/abs/2201.09381
-  label: paper
-cta:
-  url: https://arxiv.org/abs/2201.09381
-  label: paper
+  label: Read our paper
+cta_alt:
+  url: https://github.com/ojedaf/vCLIMB_Benchmark.git
+  label: Our Code
 cta_note:
   label:
 advanced:
