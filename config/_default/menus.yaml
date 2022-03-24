@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Download
+  - name: Our benchmark
     url: '/download'
     weight: 20
   - name: Our Team
