@@ -13,6 +13,9 @@ design:
 cta:
   url: https://arxiv.org/abs/2201.09381
   label: paper
+cta:
+  url: https://arxiv.org/abs/2201.09381
+  label: paper
 cta_note:
   label:
 advanced:
