@@ -7,7 +7,7 @@ name = "Custom Theme"
 
   # Links
   link = "#3273dc"
-  link_hover = "rgb(54, 54, 54)"
+  link_hover = "#FF5733"
 
   # Menu
   menu_primary = "rgb(153,238,255)"
