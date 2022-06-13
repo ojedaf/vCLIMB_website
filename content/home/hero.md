@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: A Novel Video Class Incremental Learning Benchmark
+title: <img src="myimage.jpg" align="left"> A Novel Video Class Incremental Learning Benchmark
 hero_media: contLearn_img_v2.png
 design:
   background:
