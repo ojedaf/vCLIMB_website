@@ -23,8 +23,7 @@ advanced:
 ---
 <br>
 
-<p style="font-size:18px;">We introduce vCLIMB, a novel video continual learning benchmark. vCLIMB is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning. We focus on class incremental continual learning with models trained on a sequence of disjoint tasks, and distribute the number of classes uniformly across the tasks. We perform in-depth evaluations of existing CL methods in vCLIMB, and observe two unique challenges in video data. The selection of instances to store in episodic memory is performed at the frame level. Second, untrimmed training data influences the effectiveness of frame sampling strategies. We address these two challenges by proposing a temporal consistency regularization that can be applied on top of memory-based continual learning methods.
-</p>
+<p style="font-size:18px;">We introduce vCLIMB, a novel video continual learning benchmark. It is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning to promote and facilitate research in this area. vCLIMB proposes eight different continual learning scenarios from three well-known video datasets: UCF101, Kinetics, and ActivityNet. For the first time, we create realistic and challenging scenarios using untrimmed videos taken from ActivityNet. Likewise, we encourage redefining the memory size of rehearsal methods in terms of stored frames. </p>
 
 <!-- <br> -->
 
