@@ -25,6 +25,6 @@ advanced:
 
 <p style="font-size:18px;">We introduce vCLIMB, a novel video continual learning benchmark. It is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning to promote and facilitate research in this area. vCLIMB proposes eight different continual learning scenarios from three well-known video datasets: UCF101, Kinetics, and ActivityNet. For the first time, we create realistic and challenging scenarios using untrimmed videos taken from ActivityNet. Likewise, we encourage redefining the memory size of rehearsal methods in terms of stored frames. </p>
 
-<!-- <br> -->
+<br>
 
 <!-- <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
