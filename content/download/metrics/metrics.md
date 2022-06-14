@@ -4,7 +4,10 @@
 ## Metrics
 
 ### Average Accuracy (Acc)
-Acc is the average classification accuracy of the model evaluated on all learned tasks, including the last task it was trained on. This metric is essential to show how the average performance of the model degrades as it learns new tasks. $BWF_{i} = \frac{1}{N_{i} - 1} \sum_{j=1}^{N_{i}-1} R_{j,j}-R_{N_i,j}$ 
+Acc is the average classification accuracy of the model evaluated on all learned tasks, including the last task it was trained on. This metric is essential to show how the average performance of the model degrades as it learns new tasks. 
+
+### Backward Forgetting (BWF)
+BWF complements Acc and measures the influence of the learned task \(i\) in the performance of the previous tasks
 
 <!DOCTYPE html>
 <html>
@@ -23,6 +26,3 @@ Acc is the average classification accuracy of the model evaluated on all learned
 </p>
 </body>
 </html>
-
-### Backward Forgetting (BWF)
-BWF complements Acc and measures the influence of the learned task
