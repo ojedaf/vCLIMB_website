@@ -18,7 +18,7 @@ This table shows the main attributes of the Continual Learning Scenarios we prop
 <li>The video instances contain a temporal dimension size that could show large variability. To favor fair comparisons between methods and datasets, we define the working memory size of the rehearsal methods in terms of stored frames. 
 </ul>
 
-<table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
+<table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; margin-left: auto;margin-right: auto;">
  <thead style="background-color: #333;color: white;">
   <tr>
    <th>Set</th>
