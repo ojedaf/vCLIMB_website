@@ -23,7 +23,7 @@ advanced:
 ---
 <br>
 
-<img src="https://github.com/ojedaf/vCLIMB_website/blob/main/content/home/icon.png" align="left"> <p style="font-size:18px;">We introduce vCLIMB, a novel video continual learning benchmark. It is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning to promote and facilitate research in this area. vCLIMB proposes eight different continual learning scenarios from three well-known video datasets: UCF101, Kinetics, and ActivityNet. For the first time, we create realistic and challenging scenarios using untrimmed videos taken from ActivityNet. Likewise, we encourage redefining the memory size of rehearsal methods in terms of stored frames. </p>
+<p style="font-size:18px;">We introduce vCLIMB, a novel video continual learning benchmark. It is a standardized test-bed to analyze catastrophic forgetting of deep models in video continual learning to promote and facilitate research in this area. vCLIMB proposes eight different continual learning scenarios from three well-known video datasets: UCF101, Kinetics, and ActivityNet. For the first time, we create realistic and challenging scenarios using untrimmed videos taken from ActivityNet. Likewise, we encourage redefining the memory size of rehearsal methods in terms of stored frames. </p>
 
 <br>
 
