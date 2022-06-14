@@ -14,6 +14,7 @@ This table shows the main attributes of the Continual Learning Scenarios we prop
 
 <ul>
 <li>We create two sets of tasks, one with ten tasks and the other with twenty. The last one is more challenging because it has a longer series of tasks. Therefore, it offers more chances to forget.
+<li>We do not leverage pretraining of the same data distribution to isolate the forgetting problem. 
 <li>For the first time, we propose evaluating a more realistic and challenging scenario using untrimmed videos.
 <li>The video instances contain a temporal dimension size that could show large variability. To favor fair comparisons between methods and datasets, we define the working memory size of the rehearsal methods in terms of stored frames. 
 </ul>
