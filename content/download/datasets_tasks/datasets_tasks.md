@@ -2,6 +2,9 @@
 ---
 ## Baselines for Video CIL
 
+<img src="https://github.com/ojedaf/vCLIMB_website/blob/main/assets/media/img_datasets.png">
+
+
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
   <tr>
