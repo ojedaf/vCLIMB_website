@@ -62,14 +62,14 @@ This table shows the main attributes of the Continual Learning Scenarios we prop
    <td>10</td>
    <td>20</td>
    <td>3542</td>
-   <td>✓</td>
+   <td style="color: green;">✓</td>
   </tr>
   <tr style="background-color: #cfd5ea">
    <th>vCLIMB ActivityNet-Untrim</th>
    <td>20</td>
    <td>10</td>
    <td>3542</td>
-   <td>✓</td>
+   <td style="color: green;">✓</td>
   </tr>
   <tr style="background-color: #e9ebf5">
    <th>vCLIMB ActivityNet-Trim</th>
