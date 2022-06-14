@@ -1,8 +1,8 @@
 ---
 ---
-## Baselines for Video CIL
+## Datasets
 
-We propose vCLIMB. It is a novel benchmark devised to evaluate Class Incremental Learning in video domain to promote and facilitate research in this area. Our benchmark includes three well-known video datasets: UCF101, Kinetics, and ActivityNet.
+vCLIMB is a novel benchmark devised to evaluate Class Incremental Learning in video domain to promote and facilitate research in this area. Our benchmark includes three well-known video datasets: UCF101, Kinetics, and ActivityNet.
 
 <img src="https://github.com/ojedaf/vCLIMB_website/blob/main/assets/media/img_datasets.png">
 
