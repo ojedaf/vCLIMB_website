@@ -19,7 +19,7 @@ This table shows the main attributes of the Continual Learning Scenarios we prop
 </ul>
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
- <thead style="background-color: #333;color: white;">
+ <thead style="background-color: #4473c4;color: white;">
   <tr>
    <th>Set</th>
    <th>Tasks</th>
