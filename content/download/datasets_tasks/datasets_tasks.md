@@ -8,7 +8,15 @@ vCLIMB is a novel benchmark devised to evaluate Class Incremental Learning in vi
  <img src="https://raw.githubusercontent.com/ojedaf/vCLIMB_website/main/assets/media/img_datasets.png"> 
 </div>
 
-## Remembering from Down-sampled Videos.
+## Our Benchmark
+
+This table shows the main attributes of the Continual Learning Scenarios we propose in our benchmark.
+
+<ul>
+<li>We create two sets of tasks, one with ten tasks and the other with twenty. The last one is more challenging because it has a longer series of tasks. Therefore, it offers more chances to forget.
+<li>For the first time, we propose evaluating a more realistic and challenging scenario using untrimmed videos.
+<li>The video instances contain a temporal dimension size that could show large variability. To favor fair comparisons between methods and datasets, we define the working memory size of the rehearsal methods in terms of stored frames. 
+</ul>
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
