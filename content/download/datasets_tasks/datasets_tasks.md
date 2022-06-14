@@ -29,57 +29,57 @@ This table shows the main attributes of the Continual Learning Scenarios we prop
   </tr>
  </thead>
  <tbody>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB UCF101</th>
+  <tr style="background-color: #e9ebf5">
+   <th>vCLIMB UCF101</th>
    <td>10</td>
    <td>10</td>
    <td>183</td>
    <td>✕</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB UCF101</th>
+  <tr style="background-color: #cfd5ea">
+   <th>vCLIMB UCF101</th>
    <td>20</td>
    <td>5</td>
    <td>183</td>
    <td>✕</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB Kinetics</th>
+  <tr style="background-color: #e9ebf5">
+   <th>vCLIMB Kinetics</th>
    <td>10</td>
    <td>40</td>
    <td>250</td>
    <td>✕</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB Kinetics</th>
+  <tr style="background-color: #cfd5ea">
+   <th>vCLIMB Kinetics</th>
    <td>20</td>
    <td>20</td>
    <td>250</td>
    <td>✕</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB ActivityNet-Untrim</th>
+  <tr style="background-color: #e9ebf5">
+   <th>vCLIMB ActivityNet-Untrim</th>
    <td>10</td>
    <td>20</td>
    <td>3542</td>
    <td>✓</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB ActivityNet-Untrim</th>
+  <tr style="background-color: #cfd5ea">
+   <th>vCLIMB ActivityNet-Untrim</th>
    <td>20</td>
    <td>10</td>
    <td>3542</td>
    <td>✓</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB ActivityNet-Trim</th>
+  <tr style="background-color: #e9ebf5">
+   <th>vCLIMB ActivityNet-Trim</th>
    <td>10</td>
    <td>20</td>
    <td>3879</td>
    <td>✕</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">vCLIMB ActivityNet-Trim</th>
+  <tr style="background-color: #cfd5ea">
+   <th>vCLIMB ActivityNet-Trim</th>
    <td>20</td>
    <td>10</td>
    <td>3879</td>
