@@ -4,8 +4,9 @@
 
 vCLIMB is a novel benchmark devised to evaluate Class Incremental Learning in video domain to promote and facilitate research in this area. Our benchmark includes three well-known video datasets: UCF101, Kinetics, and ActivityNet.
 
-![datasets](https://github.com/ojedaf/vCLIMB_website/blob/main/assets/media/img_datasets.png)
-
+<div class="media media3">
+ <img src="https://github.com/ojedaf/vCLIMB_website/blob/main/assets/media/img_datasets.png"> 
+</div>
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
