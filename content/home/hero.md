@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title:<img src="https://github.com/ojedaf/vCLIMB_website/blob/main/content/home/icon.png" align="left"> A Novel Video Class Incremental Learning Benchmark
+title: A Novel Video Class Incremental Learning Benchmark
 hero_media: contLearn_img_v2.png
 design:
   background:
