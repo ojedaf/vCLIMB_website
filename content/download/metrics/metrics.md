@@ -19,7 +19,7 @@ Acc is the average classification accuracy of the model evaluated on all learned
 <body>
 <p>
   \[BWF_{i} = \frac{1}{N_{i} - 1} \sum_{j=1}^{N_{i}-1} R_{j,j}-R_{N_i,j}\]
-  Where \N_i\, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  Where \(N_i\), is the number of learned tasks after learning the task \(i\), and \(R_{j,j}\) and \(R_{N_i,j}\) represents the accuracy on the task \(j\) after learning the task \(j\), and learning a new task the task \(i\), respectively.
 </p>
 </body>
 </html>
