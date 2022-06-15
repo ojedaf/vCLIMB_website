@@ -11,7 +11,7 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: https://arxiv.org/abs/2201.09381
+  url: https://openaccess.thecvf.com/content/CVPR2022/html/Villa_vCLIMB_A_Novel_Video_Class_Incremental_Learning_Benchmark_CVPR_2022_paper.html
   label: Read our paper
 cta_alt:
   url: https://github.com/ojedaf/vCLIMB_Benchmark.git
