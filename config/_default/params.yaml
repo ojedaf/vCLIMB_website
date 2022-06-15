@@ -13,20 +13,6 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: 
-    local_business_type: ''
-    org_name: ''
-    description: ''
-    twitter: ''
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
-
 # Site header
 
 header:
@@ -36,7 +22,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: true
 
 # Site footer
