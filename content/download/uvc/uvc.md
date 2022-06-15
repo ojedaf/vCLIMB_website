@@ -2,7 +2,7 @@
 ---
 ## Class Incremental Learning from Untrimmed Videos
 
-We perform a set of experiments to evaluate the realistic class incremental learning scenario with untrimmed videos and make a few interesting observations. First, ActivityNet-Untrim is more challenging than ActivityNet-Trim. iCaRL baseline achieves a better performance on ActivityNet-Trim regardless of the number of frames per video stored in memory. Second, our temporal consistency regularization improves iCaRL by large margins in both ActivityNet setups.
+Due to the diversity of actions and millions of video data uploaded daily through platforms like TikTok and Instagram, real-world deep learning methods must support untrimmed video. Therefore, we propose a more realistic and challenging scenario for class incremental learning using untrimmed videos. We encourage future work to focus on this and beat the current approaches. 
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
  <thead style="background-color: #4473c4;color: white;">
