@@ -3,8 +3,8 @@
 ### Challenge of Remembering from fewer frames
 Temporal consistency regularization (labeled TC in the table) reduces forgetting on the 10-task Kinetics split regardless of how many frames per video are stored. In particular, our best baseline (iCaRL) tested on a memory of 16, 8, or 4 frames per video is significantly improved when our temporal consistency term is added to iCaRL's loss objective. Indeed, adding the TC Loss, we achieve even better results with 4, 8, and 16 than with without TC and full-resolution videos. Likewise, we obtain even more sizable improvements on Trimmed ActivityNet with temporal consistency. Specifically, adding the regularization term with a model that has access to a memory consisting of 8 frames per video results in a massive 24% improvement, which significantly closes the 27% accuracy gap between storing 8 frames without TC and full-resolution videos. Our results show that our method is most relevant for datasets that require more sophisticated temporal reasoning like ActivityNet.
 
-<table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
- <thead style="background-color: #333;color: white;">
+<table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
+ <thead style="background-color: #4473c4;color: white;">
   <tr>
    <th rowspan="2">Model</th>
    <th rowspan="2">Frames per video</th>
@@ -25,8 +25,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
   </tr>
  </thead>
  <tbody>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL</th>
    <td>4</td>
    <td>3.2 × 10<sup>4</sup></td>
    <td>30.73%</td>
@@ -38,8 +38,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
    <td>80.32%</td>
    <td>17.13%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL</th>
    <td>8</td>
    <td>6.4 × 10<sup>4</sup></td>
    <td>32.04%</td>
@@ -51,8 +51,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
    <td>81.12%</td>
    <td>18.25%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL</th>
    <td>16</td>
    <td>12.8 × 10<sup>4</sup></td>
    <td>31.36%</td>
@@ -64,8 +64,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
    <td>81.06%</td>
    <td>18.23%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL</th>
    <td>ALL</td>
    <td>2 × 10<sup>6</sup></td>
    <td>32.04%</td>
@@ -77,8 +77,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
    <td>80.97%</td>
    <td>18.11%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL+TC</th>
    <td>4</td>
    <td>3.2 × 10<sup>4</sup></td>
    <td>35.32%</td>
@@ -90,8 +90,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
    <td>73.85%</td>
    <td>26.35%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL+TC</th>
    <td>8</td>
    <td>6.4 × 10<sup>4</sup></td>
    <td>36.24%</td>
@@ -103,8 +103,8 @@ Temporal consistency regularization (labeled TC in the table) reduces forgetting
    <td>74.25%</td>
    <td>25.27%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL+TC</th>
    <td>16</td>
    <td>12.8 × 10<sup>4</sup></td>
    <td>36.54%</td>
