@@ -2,6 +2,8 @@
 ---
 ## Baselines for Video CIL
 
+In order to evaluate our benchmark, we extend four methods from image domain. The first two are EWC and MAS. These are regularized methods that penalize changes to the most relevant parameters for the previous tasks. The other two, iCaRL and BIC, are memory-based methods that select and store samples of the current task into a memory buffer for future replay. Consistent with image benchmarks, the memory-based approaches significantly outperform the regularized methods.
+
 <table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
  <thead style="background-color: #333;color: white;">
   <tr>
