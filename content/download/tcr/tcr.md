@@ -24,3 +24,5 @@ We also present a novel strategy for rehearsal methods to reduce memory consumpt
 </p>
 </body>
 </html>
+
+<img src="https://raw.githubusercontent.com/ojedaf/vCLIMB_website/main/assets/media/tc_results_img.png" align="left">
