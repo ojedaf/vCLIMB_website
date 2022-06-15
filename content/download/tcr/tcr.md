@@ -25,4 +25,6 @@ We also present a novel strategy for rehearsal methods to reduce memory consumpt
 </body>
 </html>
 
+We achieve outstanding results with the temporal consistency loss, especially in the dataset that requires more sophisticated temporal reasoning like ActivityNet. On both versions of ActivityNet, Trim, and Untrimmed, our regularization loss enhances the performance by 24% when we save eight frames. Likewise, it remains close to the best performance with all frames shown in the red dashed line, but with 0.2% of the memory size.
+
 <img src="https://raw.githubusercontent.com/ojedaf/vCLIMB_website/main/assets/media/tc_results_img.png" align="left">
