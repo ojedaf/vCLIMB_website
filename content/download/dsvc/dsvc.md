@@ -1,7 +1,8 @@
 ---
 ---
 ### Challenge of Remembering from fewer frames
-Temporal consistency regularization (labeled TC in the table) reduces forgetting on the 10-task Kinetics split regardless of how many frames per video are stored. In particular, our best baseline (iCaRL) tested on a memory of 16, 8, or 4 frames per video is significantly improved when our temporal consistency term is added to iCaRL's loss objective. Indeed, adding the TC Loss, we achieve even better results with 4, 8, and 16 than with without TC and full-resolution videos. Likewise, we obtain even more sizable improvements on Trimmed ActivityNet with temporal consistency. Specifically, adding the regularization term with a model that has access to a memory consisting of 8 frames per video results in a massive 24% improvement, which significantly closes the 27% accuracy gap between storing 8 frames without TC and full-resolution videos. Our results show that our method is most relevant for datasets that require more sophisticated temporal reasoning like ActivityNet.
+
+The video instances contain a temporal dimension size that could show large variability, and some action classes do not require considering all frames to understand them. To favor fair comparisons between methods and datasets and reduce the huge memory consumption, we define the working memory size of the rehearsal methods in terms of stored frames. This creates a new unique scenario of Class Incremental Learning in video data, in which rehearsal methods must decide first what subset of frames should be selected and then decide what video to store according to selected frames per video. We encourage future works on Class Incremental Learning for Video Understanding to focus on this and beat our Temporal Consistency Regulation strategy. 
 
 <table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
  <thead style="background-color: #4473c4;color: white;">
