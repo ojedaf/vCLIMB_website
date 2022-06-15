@@ -2,8 +2,8 @@
 ---
 ### Baselines for Video CIL
 
-<table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
- <thead style="background-color: #333;color: white;">
+<table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
+ <thead style="background-color: #4473c4;color: white;">
   <tr>
    <th rowspan="2">Model</th>
    <th rowspan="2">Num. Task</th>
@@ -27,8 +27,8 @@
   </tr>
  </thead>
  <tbody>
-  <tr>
-   <th style="background-color: #36c;color: #fff">EWC</th>
+  <tr style="background-color: #e9ebf5">
+   <th>EWC</th>
    <td>10</td>
    <td>None</td>
    <td>None</td>
@@ -43,8 +43,8 @@
    <td>9.51%</td>
    <td>98.94%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">MAS</th>
+  <tr style="background-color: #cfd5ea">
+   <th>MAS</th>
    <td>10</td>
    <td>None</td>
    <td>None</td>
@@ -59,8 +59,8 @@
    <td>10.89%</td>
    <td>11.11%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">EWC</th>
+  <tr style="background-color: #e9ebf5">
+   <th>EWC</th>
    <td>20</td>
    <td>None</td>
    <td>None</td>
@@ -75,8 +75,8 @@
    <td>4.71%</td>
    <td>92.12%</td>
   </tr>
-  <tr style="border-bottom: 1pt solid black;">
-   <th style="background-color: #36c;color: #fff">MAS</th>
+  <tr style="background-color: #cfd5ea">
+   <th>MAS</th>
    <td>20</td>
    <td>None</td>
    <td>None</td>
@@ -91,8 +91,8 @@
    <td>5.90%</td>
    <td>5.31%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">Naive</th>
+  <tr style="background-color: #e9ebf5">
+   <th>Naive</th>
    <td>10</td>
    <td>8000</td>
    <td>2 × 10<sup>6</sup></td>
@@ -107,8 +107,8 @@
    <td>91.42%</td>
    <td>7.43%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL</th>
    <td>10</td>
    <td>8000</td>
    <td>2 × 10<sup>6</sup></td>
@@ -123,8 +123,8 @@
    <td>80.97%</td>
    <td>18.11%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">BiC</th>
+  <tr style="background-color: #e9ebf5">
+   <th>BiC</th>
    <td>10</td>
    <td>8000</td>
    <td>2 × 10<sup>6</sup></td>
@@ -139,8 +139,8 @@
    <td>78.16%</td>
    <td>18.49%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">Naive</th>
+  <tr style="background-color: #cfd5ea">
+   <th>Naive</th>
    <td>20</td>
    <td>8000</td>
    <td>2 × 10<sup>6</sup></td>
@@ -155,8 +155,8 @@
    <td>87.40%</td>
    <td>10.96%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL</th>
    <td>20</td>
    <td>8000</td>
    <td>2 × 10<sup>6</sup></td>
@@ -171,8 +171,8 @@
    <td>76.59%</td>
    <td>21.83%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">BiC</th>
+  <tr style="background-color: #cfd5ea">
+   <th>BiC</th>
    <td>20</td>
    <td>8000</td>
    <td>2 × 10<sup>6</sup></td>
