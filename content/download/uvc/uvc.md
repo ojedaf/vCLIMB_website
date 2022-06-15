@@ -1,6 +1,6 @@
 ---
 ---
-## Class Incremental Learning from Untrimmed Videos
+### Class Incremental Learning from Untrimmed Videos
 
 Due to the diversity of actions and millions of video data uploaded daily through platforms like TikTok and Instagram, real-world deep learning methods must support untrimmed video. Therefore, we propose a more realistic and challenging scenario for class incremental learning using untrimmed videos. We encourage future work to focus on this and beat the current approaches. 
 
