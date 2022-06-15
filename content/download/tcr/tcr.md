@@ -18,7 +18,7 @@ We also present a novel strategy for rehearsal methods to reduce memory consumpt
 </head>
 <body>
 <p>
-  \[L_{c} = \(1-\lambda\)L_{cls}\(F\(X\), Y\) + \lambda L_{cls}\(F\(X^d\), Y\)\]
+  \[L_{c} = (1-\lambda)L_{cls}(F(X), Y) + \lambda L_{cls}(F(X^d), Y)\]
   Where \(L_{cls}\), is the cross-entropy loss. Y is the ground truth label of X and X^d. X^d is the temporally down-sampled version of X. \lambda is the consistency regularization factor.
 </p>
 </body>
