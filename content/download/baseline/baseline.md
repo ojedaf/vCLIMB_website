@@ -2,7 +2,7 @@
 ---
 ### Baselines for Video CIL
 
-<table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
+<table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;font-size:10px;">
  <thead style="background-color: #4473c4;color: white;">
   <tr>
    <th rowspan="2">Model</th>
