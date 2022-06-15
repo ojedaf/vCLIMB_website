@@ -4,8 +4,8 @@
 
 We perform a set of experiments to evaluate the realistic class incremental learning scenario with untrimmed videos and make a few interesting observations. First, ActivityNet-Untrim is more challenging than ActivityNet-Trim. iCaRL baseline achieves a better performance on ActivityNet-Trim regardless of the number of frames per video stored in memory. Second, our temporal consistency regularization improves iCaRL by large margins in both ActivityNet setups.
 
-<table style="border-collapse: separate; text-align: center; vertical-align: middle;font-size:10px; ">
- <thead style="background-color: #333;color: white;">
+<table style="border-collapse: separate; text-align: center; vertical-align: middle; margin-left: auto;margin-right: auto;">
+ <thead style="background-color: #4473c4;color: white;">
   <tr>
    <th rowspan="2">Model</th>
    <th rowspan="2">Frames per video</th>
@@ -21,8 +21,8 @@ We perform a set of experiments to evaluate the realistic class incremental lear
   </tr>
  </thead>
  <tbody>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL</th>
    <td>4</td>
    <td>1.6 × 10<sup>4</sup></td>
    <td>16.28%</td>
@@ -30,8 +30,8 @@ We perform a set of experiments to evaluate the realistic class incremental lear
    <td>21.63%</td>
    <td>36.98%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL</th>
    <td>8</td>
    <td>3.2 × 10<sup>4</sup></td>
    <td>16.67%</td>
@@ -39,8 +39,8 @@ We perform a set of experiments to evaluate the realistic class incremental lear
    <td>21.54%</td>
    <td>33.41%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL</th>
    <td>16</td>
    <td>6.4 × 10<sup>4</sup></td>
    <td>21.27%</td>
@@ -48,8 +48,8 @@ We perform a set of experiments to evaluate the realistic class incremental lear
    <td>25.27%</td>
    <td>29.71%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL+TC</th>
    <td>4</td>
    <td>1.6 × 10<sup>4</sup></td>
    <td>36.07%</td>
@@ -57,8 +57,8 @@ We perform a set of experiments to evaluate the realistic class incremental lear
    <td>42.99%</td>
    <td>23.82%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+  <tr style="background-color: #e9ebf5">
+   <th>iCaRL+TC</th>
    <td>8</td>
    <td>3.2 × 10<sup>4</sup></td>
    <td>40.29%</td>
@@ -66,8 +66,8 @@ We perform a set of experiments to evaluate the realistic class incremental lear
    <td>45.73%</td>
    <td>18.90%</td>
   </tr>
-  <tr>
-   <th style="background-color: #36c;color: #fff">iCaRL+TC</th>
+  <tr style="background-color: #cfd5ea">
+   <th>iCaRL+TC</th>
    <td>16</td>
    <td>6.4 × 10<sup>4</sup></td>
    <td>40.45%</td>
