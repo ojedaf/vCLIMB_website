@@ -26,7 +26,7 @@ main:
     url: '/download/tcr/'
     weight: 60
     parent: Our benchmark
-  - name: Down-sampled Videos Challenge
+  - name: Challenge of Remembering from fewer frames
     url: '/download/dsvc/'
     weight: 70
     parent: Our benchmark
